@@ -5,6 +5,15 @@
 A few of the projects [I have in GitHub](http://github.com/JJ),
 anyways
 
+## A few tutorials, most of them in Spanish
+
+* [Introducción a Ruby](http://jj.github.io/ruby-para-impacientes)
+
+## My open source novels
+
+* [Manuel the Magnificent Mechanical Man](http://jj.github.io/hoborg),
+  in English
+
 ## ObPicture
 
 <code class='image'>
