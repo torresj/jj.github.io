@@ -7,6 +7,12 @@ anyways.
 ## A few tutorials, most of them in Spanish
 
 * [Introducción a Ruby](http://jj.github.io/ruby-para-impacientes)
+* [Curso de JavaScript](https://github.com/JJ/curso-js)
+
+## La asignatura que enseño en la [ETSIIT](http://etsiit.ugr.es)
+
+[Infraestructura Virtual](http://jj.github.io/IV/), un poco de
+computación nube.
 
 ## My open source novels
 
