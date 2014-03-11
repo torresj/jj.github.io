@@ -1,4 +1,4 @@
-# JJ Merelo pages
+# Jaime Torres Benavente pages
 
 A repo for my GitHub personal page.
 
