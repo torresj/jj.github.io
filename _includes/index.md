@@ -6,7 +6,7 @@ anyways
 
 ## My projects with office software free university of Granada
 
-* [open data page Uniersity of Granada](https://github.com/oslugr/ugr-opendata)
+* [open data page University of Granada](https://github.com/oslugr/ugr-opendata)
 
 * [transparency web University of Granada](https://github.com/oslugr/ugr-transparente)
 
