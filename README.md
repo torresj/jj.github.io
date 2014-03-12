@@ -1,4 +1,4 @@
-# Manu
+# Makova
 
 A repo for my GitHub personal page.
 
