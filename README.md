@@ -1,4 +1,4 @@
-# Manu Cogolludo pages
+# Manu
 
 A repo for my GitHub personal page.
 
