@@ -1,4 +1,4 @@
-## Este es el enlace a todos mis proyectos
+## Este es el enlace a todos los proyectos
 
 Proyectos colaboraciones y seguimientos de [GitHub](https://github.com/Makova)
 
