@@ -1,16 +1,18 @@
+## Este es el enlace a todos mis proyectos
 
-## A page to point to them all
+Proyectos colaboraciones y seguimientos de [GitHub](https://github.com/Makova)
 
-A few of the projects [I have in GitHub](http://github.com/torresj),
-anyways
+## Novela, proyectos, seguimiento, commits, issues, colaboraciones
 
-## My projects with office software free university of Granada
+* [novela el mosquito](https://github.com/Makova/mosquito)
 
-* [open data page University of Granada](https://github.com/oslugr/ugr-opendata)
+* [ejercicios curso Python](https://github.com/Makova/ejerciciosPython)
 
-* [transparency web University of Granada](https://github.com/oslugr/ugr-transparente)
+* [issues novela HashSlash jjmerelo](https://github.com/JJ/HashSlash)
 
-## ObPicture
+* [seguimiento del Kernel Lonas para ROM's Oficiales Samsung 4.3](https://github.com/javilonas/Lonas_KL-GT-I9300-Sammy)
+
+## Foto
 
 ![Jaime Torres Benavente](foto.jpg)
 
