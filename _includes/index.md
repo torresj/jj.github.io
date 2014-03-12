@@ -14,7 +14,7 @@ Proyectos colaboraciones y seguimientos de [GitHub](https://github.com/Makova)
 
 ## Foto
 
-![Makova](makova.jpg)
+![Manu Cogolludo](makova.jpg)
 
 ## Based on
 
