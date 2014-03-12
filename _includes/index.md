@@ -1,8 +1,8 @@
 ## Este es el enlace a todos los proyectos
 
-Proyectos colaboraciones y seguimientos de [GitHub](https://github.com/Makova)
+Proyectos, colaboraciones y seguimientos en [GitHub](https://github.com/Makova)
 
-## Novela, proyectos, seguimiento, commits, issues, colaboraciones
+## Novela, proyectos, seguimiento, commits, issues, colaboraciones, etc...
 
 * [Novela el mosquito](https://github.com/Makova/mosquito)
 
@@ -12,7 +12,7 @@ Proyectos colaboraciones y seguimientos de [GitHub](https://github.com/Makova)
 
 * [Seguimiento del Kernel Lonas para ROM's Oficiales Samsung 4.3](https://github.com/javilonas/Lonas_KL-GT-I9300-Sammy)
 
-## Foto
+## Fotico
 
 ![Manu Cogolludo](makova.jpg)
 
