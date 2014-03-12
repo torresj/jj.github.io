@@ -14,7 +14,7 @@ Proyectos colaboraciones y seguimientos de [GitHub](https://github.com/Makova)
 
 ## Foto
 
-![Jaime Torres Benavente](foto.jpg)
+![Manu Cogolludo](makova.jpg)
 
 ## Based on
 
