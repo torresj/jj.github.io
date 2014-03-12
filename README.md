@@ -1,4 +1,4 @@
-# Jaime Torres Benavente pages
+# Manu Cogolludo pages
 
 A repo for my GitHub personal page.
 
