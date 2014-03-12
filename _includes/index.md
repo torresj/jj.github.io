@@ -4,13 +4,13 @@ Proyectos colaboraciones y seguimientos de [GitHub](https://github.com/Makova)
 
 ## Novela, proyectos, seguimiento, commits, issues, colaboraciones
 
-* [novela el mosquito](https://github.com/Makova/mosquito)
+* [Novela el mosquito](https://github.com/Makova/mosquito)
 
-* [ejercicios curso Python](https://github.com/Makova/ejerciciosPython)
+* [Ejercicios curso Python](https://github.com/Makova/ejerciciosPython)
 
-* [issues novela HashSlash jjmerelo](https://github.com/JJ/HashSlash)
+* [Issues novela HashSlash jjmerelo](https://github.com/JJ/HashSlash)
 
-* [seguimiento del Kernel Lonas para ROM's Oficiales Samsung 4.3](https://github.com/javilonas/Lonas_KL-GT-I9300-Sammy)
+* [Seguimiento del Kernel Lonas para ROM's Oficiales Samsung 4.3](https://github.com/javilonas/Lonas_KL-GT-I9300-Sammy)
 
 ## Foto
 
