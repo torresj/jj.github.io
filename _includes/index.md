@@ -10,6 +10,8 @@ Proyectos, colaboraciones y seguimientos en [GitHub](https://github.com/Makova)
 
 * [Issues novela HashSlash jjmerelo](https://github.com/JJ/HashSlash)
 
+* [Osgiliath](https://github.com/fergunet/osgiliath)
+
 * [Seguimiento del Kernel Lonas para ROM's Oficiales Samsung 4.3](https://github.com/javilonas/Lonas_KL-GT-I9300-Sammy)
 
 ## Fotico
