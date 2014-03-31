@@ -2,9 +2,11 @@
 
 Proyectos, colaboraciones y seguimientos en [GitHub](https://github.com/Makova)
 
-## Novela, proyectos, seguimiento, commits, issues, colaboraciones, etc...
+## Novela, cursos, proyectos, seguimiento, commits, issues, colaboraciones, etc...
 
 * [Novela el mosquito](https://github.com/Makova/mosquito)
+
+* [Curso Git OSL](https://github.com/Makova/Curso-Git-OSL)
 
 * [Ejercicios curso Python](https://github.com/Makova/ejerciciosPython)
 
@@ -14,7 +16,7 @@ Proyectos, colaboraciones y seguimientos en [GitHub](https://github.com/Makova)
 
 * [Seguimiento del Kernel Lonas para ROM's Oficiales Samsung 4.3](https://github.com/javilonas/Lonas_KL-GT-I9300-Sammy)
 
-## Fotico
+## Foto
 
 ![Manu Cogolludo](makova.jpg)
 
