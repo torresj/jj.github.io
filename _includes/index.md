@@ -8,7 +8,7 @@ Proyectos, colaboraciones y seguimientos en [GitHub](https://github.com/Makova)
 
 * [Curso Git](https://github.com/Makova/Curso-Git-OSL)
  
-* [Curso Git de la OSL](https://github.com/oslugr/curso-git)
+* [Curso Git virtual de la OSL](https://github.com/oslugr/curso-git)
 
 * [Ejercicios curso Python](https://github.com/Makova/ejerciciosPython)
 
