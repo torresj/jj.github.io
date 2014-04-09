@@ -6,7 +6,7 @@ Proyectos, colaboraciones y seguimientos en [GitHub](https://github.com/Makova)
 
 * [Novela el mosquito](https://github.com/Makova/mosquito)
 
-* [Curso Git](https://github.com/Makova/Curso-Git-OSL)
+* [Tareas curso Git](https://github.com/Makova/Curso-Git-OSL)
  
 * [Curso Git virtual de la OSL](https://github.com/oslugr/curso-git)
 
