@@ -2,7 +2,7 @@
 
 A few of the projects [GitHub](https://github.com/Makova), anyways.
 
-## Novela, cursos, proyectos, commits, issues, colaboraciones, etc...
+## Work and share
 
 * [Novela el mosquito](https://github.com/Makova/mosquito)
  
