@@ -1,7 +1,5 @@
 ## A page to point to them all
 
-A page to point to them all
-
 A few of the projects [GitHub](https://github.com/Makova), anyways.
 
 ## Novela, cursos, proyectos, commits, issues, colaboraciones, etc...
