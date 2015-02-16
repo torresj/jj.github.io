@@ -8,7 +8,7 @@ A few of the projects [GitHub](https://github.com/Makova), anyways.
  
 * [Curso Git virtual de la OSL](https://github.com/oslugr/curso-git)
 
-## Foto
+## ObPicture
 
 ![Manu Cogolludo](makova.jpg)
 
