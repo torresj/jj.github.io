@@ -8,7 +8,7 @@ A few of the projects [GitHub](https://github.com/Makova), anyways.
  
 * [Curso Git virtual de la OSL](https://github.com/oslugr/curso-git)
 
-## Organizations
+## Organizations and contribution
 
 [aprende-git](https://github.com/aprende-git)
 
