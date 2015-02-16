@@ -1,22 +1,14 @@
-## Este es el enlace a todos los proyectos
+## A page to point to them all
 
-Proyectos, colaboraciones y seguimientos en [GitHub](https://github.com/Makova)
+A page to point to them all
 
-## Novela, cursos, proyectos, seguimiento, commits, issues, colaboraciones, etc...
+A few of the projects [GitHub](https://github.com/Makova), anyways.
+
+## Novela, cursos, proyectos, commits, issues, colaboraciones, etc...
 
 * [Novela el mosquito](https://github.com/Makova/mosquito)
-
-* [Tareas curso Git](https://github.com/Makova/Curso-Git-OSL)
  
 * [Curso Git virtual de la OSL](https://github.com/oslugr/curso-git)
-
-* [Ejercicios curso Python](https://github.com/Makova/ejerciciosPython)
-
-* [Issues novela HashSlash jjmerelo](https://github.com/JJ/HashSlash)
-
-* [Osgiliath](https://github.com/fergunet/osgiliath)
-
-* [Seguimiento del Kernel Lonas para ROM's Oficiales Samsung 4.3](https://github.com/javilonas/Lonas_KL-GT-I9300-Sammy)
 
 ## Foto
 
