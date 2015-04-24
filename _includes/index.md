@@ -6,7 +6,12 @@ A few of the projects [GitHub](https://github.com/Makova), anyways.
 
 * [Novela el mosquito](https://github.com/Makova/mosquito)
  
-* [Curso Git virtual de la OSL](https://github.com/oslugr/curso-git)
+* [Curso Git virtual de la OSL](https://github.com/Makova/Curso-Git-OSL)
+
+* [Android Kitchen en Debian](https://github.com/Makova/Android-Galicia/blob/master/instalacion.md)
+ 
+* [Manual escritorios Donación](https://github.com/Makova/manual-escritorios)
+
 
 ## Organizations and contribution
 
@@ -16,6 +21,7 @@ A few of the projects [GitHub](https://github.com/Makova), anyways.
 
 [webandbeers](https://github.com/webandbeers)
 
+[Evenge](https://github.com/Makova/EVENGE)
 
 ## ObPicture
 
@@ -28,5 +34,3 @@ A few of the projects [GitHub](https://github.com/Makova), anyways.
 ### License
 
 [MIT License](http://chibicode.mit-license.org/)
-
-<a href="https://github.com/Makova/makova.github.io"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
