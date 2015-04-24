@@ -15,7 +15,7 @@ A few of the projects [GitHub](https://github.com/Makova), anyways.
 
 ## Organizations and contribution
 
-[github users GRX](github-users-grx)
+[github users GRX](https://github.com/github-users-grx)
 
 [aprende-git](https://github.com/aprende-git)
 
