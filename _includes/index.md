@@ -19,8 +19,6 @@ A few of the projects [GitHub](https://github.com/Makova), anyways.
 
 [aprende-git](https://github.com/aprende-git)
 
-[Users-grx](https://github.com/github-users-grx)
-
 [webandbeers](https://github.com/webandbeers)
 
 [Evenge](https://github.com/Makova/EVENGE)
