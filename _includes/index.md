@@ -4,12 +4,12 @@ A few of the projects [GitHub](https://github.com/Makova), anyways.
 
 ## Work and share
 
-* [Novela el mosquito](https://github.com/Makova/mosquito)
+* [Proyecto curso IV-2015-16](https://github.com/Makova/Proyecto-IV-2015-16)
+
+* [Arduio avanzado](https://github.com/Makova/ArduinoAvanzado)
  
 * [Curso Git virtual de la OSL](https://github.com/Makova/Curso-Git-OSL)
 
-* [Android Kitchen en Debian](https://github.com/Makova/Android-Galicia/blob/master/instalacion.md)
- 
 * [Manual escritorios Donación](https://github.com/Makova/manual-escritorios)
 
 
