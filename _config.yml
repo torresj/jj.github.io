@@ -2,4 +2,4 @@ markdown: redcarpet
 pygments: true
 
 title_tag_text: Makova @github
-h1_tag_text: Makova @GitHub
+h1_tag_text: Makova @ GitHub
