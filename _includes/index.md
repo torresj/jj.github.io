@@ -30,7 +30,7 @@ A few of the projects [GitHub](https://github.com/Makova), anyways.
 
 ## ObPicture
 
-![Manu Cogolludo](copy_makova.jpg)
+![](copy_makova.jpg)
 
 ## Based on
 
