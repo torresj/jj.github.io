@@ -14,7 +14,7 @@ A few of the projects [GitHub](https://github.com/Makova), anyways.
 
 ## My Gist
 
-    [gist](https://gist.github.com/makova)
+* [gist](https://gist.github.com/makova)
 
 ## Organizations and contribution
 
