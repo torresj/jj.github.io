@@ -12,6 +12,9 @@ A few of the projects [GitHub](https://github.com/Makova), anyways.
 
 * [Manual escritorios Donación](https://github.com/Makova/manual-escritorios)
 
+## My Gist
+
+    [gist](https://gist.github.com/makova)
 
 ## Organizations and contribution
 
