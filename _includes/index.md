@@ -2,7 +2,7 @@
 
 A few of the projects [GitHub](https://github.com/Makova), anyways.
 
-## Work and share
+## Trabajos publicados
 
 * [Proyecto curso IV-2015-16](https://github.com/Makova/Proyecto-IV-2015-16)
 
@@ -16,7 +16,7 @@ A few of the projects [GitHub](https://github.com/Makova), anyways.
 
 * [gist](https://gist.github.com/makova)
 
-## Organizations and contribution
+## Organizaciones y contribuciones
 
 [Granada Hack Lab](https://github.com/GranadaHackLab)
 
@@ -30,7 +30,7 @@ A few of the projects [GitHub](https://github.com/Makova), anyways.
 
 [IV-GII](https://github.com/IV-GII)
 
-## ObPicture
+## Foto
 
 ![](copy_makova.jpg)
 
