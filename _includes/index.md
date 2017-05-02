@@ -1,18 +1,38 @@
-
 ## A page to point to them all
 
-A few of the projects [I have in GitHub](http://github.com/torresj),
-anyways
+A few of the projects [GitHub](https://github.com/Makova), anyways.
 
-## My projects with office software free university of Granada
+## Trabajos publicados
 
-* [open data page University of Granada](https://github.com/oslugr/ugr-opendata)
+* [Proyecto curso IV-2015-16](https://github.com/Makova/Proyecto-IV-2015-16)
 
-* [transparency web University of Granada](https://github.com/oslugr/ugr-transparente)
+* [Arduio avanzado](https://github.com/Makova/ArduinoAvanzado)
+ 
+* [Curso Git virtual de la OSL](https://github.com/Makova/Curso-Git-OSL)
 
-## ObPicture
+* [Manual escritorios Donación](https://github.com/Makova/manual-escritorios)
 
-![Jaime Torres Benavente](foto.jpg)
+## My Gist
+
+* [gist](https://gist.github.com/makova)
+
+## Organizaciones y contribuciones
+
+[Granada Hack Lab](https://github.com/GranadaHackLab)
+
+[github users GRX](https://github.com/github-users-grx)
+
+[aprende-git](https://github.com/aprende-git)
+
+[webandbeers](https://github.com/webandbeers)
+
+[Evenge](https://github.com/Makova/EVENGE)
+
+[IV-GII](https://github.com/IV-GII)
+
+## Foto
+
+![](copy_makova.jpg)
 
 ## Based on
 
@@ -21,5 +41,3 @@ anyways
 ### License
 
 [MIT License](http://chibicode.mit-license.org/)
-
-<a href="https://github.com/chibicode/solo"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>

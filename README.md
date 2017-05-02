@@ -1,4 +1,4 @@
-# Jaime Torres Benavente pages
+# Makova
 
 A repo for my GitHub personal page.
 
